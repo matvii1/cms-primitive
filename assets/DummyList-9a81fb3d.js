@@ -1,1 +1,0 @@
-import{j as m}from"./index-91b939ed.js";const i=()=>m.jsxs("div",{className:"dummy-page",children:["Dummy List",m.jsxs("ul",{children:[m.jsx("li",{children:"Dummy item 1"}),m.jsx("li",{children:"Dummy 2"})]})]});export{i as default};
