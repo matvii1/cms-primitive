@@ -52,16 +52,9 @@ a {
 
 .link {
   display: inline-block;
+  text-decoration: underline;
+  color: rgb(0, 115, 177);
   padding: 0.35rem 0.65rem;
-  background-color: rgb(0, 115, 177);
-  color:white;
-  border: 1px solid #e8e8e8;
-  border-radius: 0.3rem;
-  transition: background-color 0.1s ease-in-out;
-
-  &:hover {
-    background-color: #dadada;
-  } 
 }
 
 .tab.active {
