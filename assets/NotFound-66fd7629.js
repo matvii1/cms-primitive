@@ -1,0 +1,1 @@
+import{j as s,L as n}from"./index-91b939ed.js";const a=()=>s.jsxs("div",{className:"dummy-page not-found",children:[s.jsx("h3",{children:"Page not found"}),s.jsx(n,{to:"..",className:"link",children:"Go back"})]});export{a as default};
